@@ -14,6 +14,9 @@ def for_loop(num):
 def master_func():
     print('I am the master of this code (first time)')
 
+def master_func2():
+    print('I am the master of this code (second time)')
+
 def collaborator_func():
         prinnt('I am a collaborator of this code')
 
