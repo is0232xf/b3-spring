@@ -11,4 +11,8 @@ def for_loop(num):
             print(i)
         time.sleep(1)
 
+def master_func():
+    print('I am the master of this code')
+
 for_loop(5)
+master_func()
