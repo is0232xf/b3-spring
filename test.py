@@ -17,9 +17,6 @@ def master_func():
 def master_func2():
     print('I am the master of this code (second time)')
 
-def collaborator_func():
-        prinnt('I am a collaborator of this code')
-
 for_loop(5)
 master_func()
 collaborator_func()
