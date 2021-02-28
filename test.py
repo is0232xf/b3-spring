@@ -22,3 +22,4 @@ def collaborator_func():
 
 for_loop(5)
 master_func()
+collaborator_func()
